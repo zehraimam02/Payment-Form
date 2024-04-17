@@ -8,9 +8,9 @@ This project consists of a simple yet effective payment form developed using HTM
 4. Responsive Design: Ensures usability across various devices with responsive design principles.<br/>
 
 <br/>**Usage**<br/><br/>
-Fill in the required user information and payment details.<br/>
-Click on the "Pay now" button to submit the form.<br/>
-Ensure all mandatory fields are correctly filled to proceed.<br/>
+1. Fill in the required user information and payment details.<br/>
+2. Click on the "Pay now" button to submit the form.<br/>
+3. Ensure all mandatory fields are correctly filled to proceed.<br/>
 
 <br/>**Contributions**<br/><br/>
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.

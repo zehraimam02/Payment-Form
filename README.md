@@ -7,7 +7,7 @@ This project consists of a simple yet effective payment form developed using HTM
 3. Validation: Utilizes HTML5 form validation attributes like required to ensure all mandatory fields are filled.<br/>
 4. Responsive Design: Ensures usability across various devices with responsive design principles.<br/>
 
-<br/>**Usage**<br/><br/>
+<br/>**Usage**<br/>
 1. Fill in the required user information and payment details.<br/>
 2. Click on the "Pay now" button to submit the form.<br/>
 3. Ensure all mandatory fields are correctly filled to proceed.<br/>

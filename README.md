@@ -1,4 +1,4 @@
-**Payment Form**<br/><br/>
+**Payment Form**<br/>
 This project consists of a simple yet effective payment form developed using HTML and CSS. The form aims to collect user information and payment details securely.<br/>
 
 <br/>**Features**<br/>
@@ -12,5 +12,5 @@ This project consists of a simple yet effective payment form developed using HTM
 2. Click on the "Pay now" button to submit the form.<br/>
 3. Ensure all mandatory fields are correctly filled to proceed.<br/>
 
-<br/>**Contributions**<br/><br/>
+<br/>**Contributions**<br/>
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
